@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @DPEMEDIA aka David K.
+- 👀 I’m interested in every web or object oriented language like PHP / C# / JavaScript and many more.
+- 🌱 I’m currently learning the unity engine and the c# language and use the visual studio code edtior.
